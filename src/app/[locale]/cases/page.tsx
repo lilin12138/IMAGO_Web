@@ -9,25 +9,25 @@ export default function CasesPage() {
   const cases = [
     {
       id: 1,
-      image: '/images/case-1.png',
+      image: '/images/case-city-pulse.png',
       title: t('case1.title'),
       category: t('case1.category'),
     },
     {
       id: 2,
-      image: '/images/case-2.png',
+      image: '/images/case-real-link.png',
       title: t('case2.title'),
       category: t('case2.category'),
     },
     {
       id: 3,
-      image: '/images/case-3.png',
+      image: '/images/case-immersive-view.png',
       title: t('case3.title'),
       category: t('case3.category'),
     },
     {
       id: 4,
-      image: '/images/case-4.png',
+      image: '/images/case-sync-vibes.png',
       title: t('case4.title'),
       category: t('case4.category'),
     },

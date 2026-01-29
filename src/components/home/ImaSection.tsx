@@ -12,9 +12,9 @@ export default function ImaSection() {
 
   const images = [
     '/images/ma-1.png',
-    '/images/case-3.png',
-    '/images/case-4.png',
-    '/images/case-6.png',
+    '/images/ma-2.png',
+    '/images/ma-3.png',
+    '/images/ma-4.png',
   ];
 
   const startTimer = useCallback(() => {

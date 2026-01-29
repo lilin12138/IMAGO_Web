@@ -12,9 +12,9 @@ export default function GoSection() {
 
   const images = [
     '/images/go-1.png',
-    '/images/case-1.png',
-    '/images/case-2.png',
-    '/images/case-5.png',
+    '/images/go-2.png',
+    '/images/go-3.png',
+    '/images/go-4.png',
   ];
 
   const startTimer = useCallback(() => {
