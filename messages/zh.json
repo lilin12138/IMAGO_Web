@@ -1,0 +1,169 @@
+{
+  "nav": {
+    "home": "首頁",
+    "business": "業務",
+    "cases": "案例",
+    "about": "關於",
+    "contact": "聯繫",
+    "search": "搜尋",
+    "login": "登錄"
+  },
+  "header": {
+    "slogan": "讓線上的連接 走向真實的行動"
+  },
+  "hero": {
+    "title": "IMAGO",
+    "subtitle": "現在，就去做！",
+    "tagline": "IMA — Make it happen!",
+    "description1": "個人、組織或組織商家，在IMAGO交匯聚集",
+    "description2": "讓興趣、觀點與行動自然匯聚",
+    "description3": "促使線上互動延展到線下真實生活"
+  },
+  "go": {
+    "title": "GO",
+    "annotation": "行",
+    "subtitle": "線下邀約",
+    "slogan": "行動匹配，秒速完成！",
+    "sloganEn": "Action matched, done in seconds!",
+    "desc1": "用戶與商家",
+    "desc2": "共同發起真實的線下活動",
+    "desc3": "從派餐、酒局、研學習、旅行與城市探索"
+  },
+  "ima": {
+    "title": "MA",
+    "annotation": "間",
+    "subtitle": "觀點社區",
+    "slogan": "感覺，爆發誕生！",
+    "sloganEn": "Emotion, unleashed!",
+    "desc1": "圍繞觀點表達立場",
+    "desc2": "讓交流不止於評論",
+    "desc3": "而是向行動"
+  },
+  "woo": {
+    "title": "I",
+    "annotation": "我",
+    "subtitle": "創造分享",
+    "slogan": "我的成就是一輩子的，真正不滅！",
+    "sloganEn": "Achievements for life — unbreakable!",
+    "desc1": "記錄生活、構建價值",
+    "desc2": "用媒體連接線上與線下的真實瞬間"
+  },
+  "advantages": {
+    "title": "Advantages",
+    "subtitle": "差異化與優勢",
+    "items": [
+      {
+        "keyword": "行動導向",
+        "title": "而非內容消耗",
+        "lines": [
+          "IMAGO的內容不是為了「被瀏覽完」",
+          "而是為了推動真實參與與現實行動"
+        ]
+      },
+      {
+        "keyword": "不依賴好友關係的",
+        "title": "開放連接",
+        "lines": [
+          "不需要互關，也能參與分享，討論與活動",
+          "讓連接更自然，而不是被社交鏈條限制"
+        ]
+      },
+      {
+        "keyword": "內容、觀點與趣約",
+        "title": "天然打通",
+        "lines": [
+          "短視頻、直播、討論都可以直指線下活動",
+          "內容不再是孤立存在、而是行動的一部分"
+        ]
+      },
+      {
+        "keyword": "面向真實",
+        "title": "城市生活",
+        "lines": [
+          "IMAGO從城市與現實出發，",
+          "服務真實的人、真實的場景與真實的發生"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "hatta": {
+      "title": "八達股份",
+      "description": "東京八達商事株式會社是一家立足東京、面向全球的互聯網產品與平台運營公司，致力於開發並運營 IMAGO平台——連接線上內容與線下真實行動的社區。公司將日本作為首發市場，逐步拓展至北美及其他國際城市，構建跨文化的城市社交與本地生活網絡。"
+    },
+    "imago": {
+      "title": "IMAGO",
+      "description": "IMAGO 以線下邀約為核心，融合短視頻、直播與觀點議題討論，幫助用戶將興趣、表達與討論，轉化為可參與的現實活動與真實連接。平台面向個人用戶、活動發起者與本地商家，支持多種線下場景的自發組織與協作，推動線上互動向線下行動的高效轉化。"
+    },
+    "tokyo": {
+      "title": "東京",
+      "description": "東京八達商事株式會社以「內容即入口、行動即結果」為產品理念，持續探索城市生活、社區協作與數字平台的融合方式，致力於打造可長期演進的線上線下一體化社交基礎設施。"
+    }
+  },
+  "business": {
+    "subtitle": "我們的服務",
+    "platform": {
+      "title": "IMAGO 平台運營",
+      "description": "提供線上線下一體化的社交平台服務，連接用戶、活動發起者與本地商家，構建城市生活新生態。"
+    },
+    "events": {
+      "title": "活動策劃與執行",
+      "description": "從創意策劃到落地執行，為企業和個人提供專業的線下活動解決方案。"
+    },
+    "marketing": {
+      "title": "品牌營銷推廣",
+      "description": "結合線上內容與線下場景，打造沉浸式品牌體驗，提升用戶參與度與品牌影響力。"
+    }
+  },
+  "cases": {
+    "subtitle": "成功案例",
+    "case1": {
+      "title": "城市脈動：匯聚可視化生活靈感流",
+      "category": "IMA"
+    },
+    "case2": {
+      "title": "現實鏈接：打破次元壁的行動契約",
+      "category": "GO"
+    },
+    "case3": {
+      "title": "沉浸視界：算法展現內容極致張力",
+      "category": "GO"
+    },
+    "case4": {
+      "title": "同頻共振：去中心化同頻圈層溝通",
+      "category": "IMA"
+    }
+  },
+  "contact": {
+    "subtitle": "聯繫我們",
+    "company": "公司名稱",
+    "address": "地址",
+    "addressDetail": "東京都品川區東五反田3-10-20",
+    "phone": "電話",
+    "email": "郵箱",
+    "followUs": "關注我們",
+    "formTitle": "發送消息",
+    "name": "姓名",
+    "namePlaceholder": "請輸入您的姓名",
+    "emailLabel": "郵箱",
+    "emailPlaceholder": "請輸入您的郵箱",
+    "message": "留言",
+    "messagePlaceholder": "請輸入您的留言內容",
+    "submit": "提交"
+  },
+  "footer": {
+    "company": "東京八達商事株式會社",
+    "companyEn": "TOKYO HATTATSU BUSINESS CORPORATION",
+    "locationLabel": "地址",
+    "location": "東京都品川區東五反田3-10-20",
+    "corpNumberLabel": "法人番號",
+    "corpNumber": "8010701044865",
+    "postalLabel": "郵編",
+    "postal": "〒141-0022",
+    "phoneLabel": "電話",
+    "phone": "(70) 3349-0510",
+    "emailLabel": "郵箱",
+    "email": "admin@tokyohattatsu.jp",
+    "rights": "All Rights Reserved"
+  }
+}

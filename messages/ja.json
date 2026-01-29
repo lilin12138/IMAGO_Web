@@ -1,0 +1,169 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "business": "事業",
+    "cases": "事例",
+    "about": "概要",
+    "contact": "連絡",
+    "search": "検索",
+    "login": "ログイン"
+  },
+  "header": {
+    "slogan": "オンラインの繋がりを リアルな行動へ"
+  },
+  "hero": {
+    "title": "IMAGO",
+    "subtitle": "今、やろう！",
+    "tagline": "IMA — Make it happen!",
+    "description1": "個人、グループ、または組織、IMAGOで集まる",
+    "description2": "興味、観点と行動を自然に集める",
+    "description3": "オンライン交流をオフラインの実生活へ"
+  },
+  "go": {
+    "title": "GO",
+    "annotation": "行",
+    "subtitle": "リアル集合",
+    "slogan": "行動マッチ 秒で完了！",
+    "sloganEn": "Action matched, done in seconds!",
+    "desc1": "ユーザーと商家",
+    "desc2": "共にリアルなオフライン活動を発起",
+    "desc3": "食事会、飲み会、研修、旅行と街探索から"
+  },
+  "ima": {
+    "title": "MA",
+    "annotation": "間",
+    "subtitle": "観点コミュニティ",
+    "slogan": "エモい爆誕！",
+    "sloganEn": "Emotion, unleashed!",
+    "desc1": "観点を中心に立場を表現",
+    "desc2": "交流はコメントだけではない",
+    "desc3": "行動へ向かう"
+  },
+  "woo": {
+    "title": "I",
+    "annotation": "私",
+    "subtitle": "創造シェア",
+    "slogan": "実績は一生 ガチ不滅！",
+    "sloganEn": "Achievements for life — unbreakable!",
+    "desc1": "生活を記録、価値を構築",
+    "desc2": "メディアでオンラインとオフラインの真実の瞬間を繋ぐ"
+  },
+  "advantages": {
+    "title": "Advantages",
+    "subtitle": "差別化と優位性",
+    "items": [
+      {
+        "keyword": "行動志向",
+        "title": "コンテンツ消費ではなく",
+        "lines": [
+          "IMAGOのコンテンツは「閲覧完了」のためではない",
+          "真実の参加と現実の行動を推進するため"
+        ]
+      },
+      {
+        "keyword": "友達関係に依存しない",
+        "title": "オープン繋がり",
+        "lines": [
+          "相互フォロー不要、共有と趣味、討論と活動",
+          "より自然な繋がり、ソーシャルチェーンに制限されない"
+        ]
+      },
+      {
+        "keyword": "コンテンツ、観点と趣味",
+        "title": "自然に繋がる",
+        "lines": [
+          "ショート動画、ライブ、討論すべてオフライン活動に繋がる",
+          "コンテンツは孤立ではなく、行動の一部"
+        ]
+      },
+      {
+        "keyword": "リアルな",
+        "title": "都市生活",
+        "lines": [
+          "IMAGOは都市と現実から出発、",
+          "リアルな人、リアルなシーンとリアルな出来事にサービス"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "hatta": {
+      "title": "八達株式会社",
+      "description": "東京八達商事株式会社は一番上之家に位置し、株式会社のサービス製品を推進しています。執着を持ち、より良い顧客サービスを提供し、創造と事業を開拓し、現代人の挑戦に対する創作の場所を提供します。"
+    },
+    "imago": {
+      "title": "IMAGO",
+      "description": "IMAGOはオフライン集合を核心として、インターネット時代に対応し、コミュニティレベルの周辺生活を再構築します。サービス対象は生活者から企業、起業家まで、深い交流とインタラクションを促進します。"
+    },
+    "tokyo": {
+      "title": "東京",
+      "description": "東京八達商事株式会社は「コンテンツは入口、行動は結果」という製品理念のもと、都市生活、コミュニティ協力、デジタルプラットフォームの融合方法を継続的に探求し、長期的に進化可能なオンライン・オフライン一体化社会インフラの構築に取り組んでいます。"
+    }
+  },
+  "business": {
+    "subtitle": "サービス内容",
+    "platform": {
+      "title": "IMAGOプラットフォーム",
+      "description": "オンラインとオフラインを統合したソーシャルプラットフォームサービスを提供し、ユーザー、イベント主催者、地元企業を繋ぎ、新しい都市生活エコシステムを構築します。"
+    },
+    "events": {
+      "title": "イベント企画・運営",
+      "description": "企画から実行まで、企業や個人向けにプロフェッショナルなオフラインイベントソリューションを提供します。"
+    },
+    "marketing": {
+      "title": "ブランドマーケティング",
+      "description": "オンラインコンテンツとオフライン体験を組み合わせ、没入型ブランド体験を創造し、ユーザーエンゲージメントとブランド影響力を高めます。"
+    }
+  },
+  "cases": {
+    "subtitle": "成功事例",
+    "case1": {
+      "title": "シティパルス：ビジュアルライフインスピレーション",
+      "category": "IMA"
+    },
+    "case2": {
+      "title": "リアルリンク：次元を超えるアクション契約",
+      "category": "GO"
+    },
+    "case3": {
+      "title": "イマーシブビュー：アルゴリズムが魅せる究極の表現力",
+      "category": "GO"
+    },
+    "case4": {
+      "title": "シンクロ共鳴：分散型コミュニティコミュニケーション",
+      "category": "IMA"
+    }
+  },
+  "contact": {
+    "subtitle": "お問い合わせ",
+    "company": "会社名",
+    "address": "住所",
+    "addressDetail": "東京都品川区東五反田3-10-20",
+    "phone": "電話",
+    "email": "メール",
+    "followUs": "フォローする",
+    "formTitle": "メッセージを送る",
+    "name": "お名前",
+    "namePlaceholder": "お名前を入力してください",
+    "emailLabel": "メールアドレス",
+    "emailPlaceholder": "メールアドレスを入力してください",
+    "message": "メッセージ",
+    "messagePlaceholder": "メッセージを入力してください",
+    "submit": "送信"
+  },
+  "footer": {
+    "company": "東京八達商事株式会社",
+    "companyEn": "TOKYO HATTATSU BUSINESS CORPORATION",
+    "locationLabel": "所在地",
+    "location": "東京都品川区東五反田3-10-20",
+    "corpNumberLabel": "法人番号",
+    "corpNumber": "8010701044865",
+    "postalLabel": "郵便番号",
+    "postal": "〒141-0022",
+    "phoneLabel": "電話",
+    "phone": "(70) 3349-0510",
+    "emailLabel": "Eメール",
+    "email": "admin@tokyohattatsu.jp",
+    "rights": "All Rights Reserved"
+  }
+}

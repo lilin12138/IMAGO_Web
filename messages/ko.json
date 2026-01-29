@@ -1,0 +1,169 @@
+{
+  "nav": {
+    "home": "홈",
+    "business": "사업",
+    "cases": "사례",
+    "about": "소개",
+    "contact": "연락처",
+    "search": "검색",
+    "login": "로그인"
+  },
+  "header": {
+    "slogan": "온라인 연결을 실제 행동으로"
+  },
+  "hero": {
+    "title": "IMAGO",
+    "subtitle": "지금, 바로 하자!",
+    "tagline": "IMA — Make it happen!",
+    "description1": "개인, 그룹 또는 기업, IMAGO에서 만나다",
+    "description2": "관심사, 관점과 행동이 자연스럽게 모이다",
+    "description3": "온라인 교류를 오프라인 실제 생활로"
+  },
+  "go": {
+    "title": "GO",
+    "annotation": "행",
+    "subtitle": "오프라인 모임",
+    "slogan": "행동 매칭, 순식간에 완료!",
+    "sloganEn": "Action matched, done in seconds!",
+    "desc1": "사용자와 상점이",
+    "desc2": "함께 실제 오프라인 활동을 시작",
+    "desc3": "식사, 술자리, 연수, 여행과 도시 탐험까지"
+  },
+  "ima": {
+    "title": "MA",
+    "annotation": "간",
+    "subtitle": "관점 커뮤니티",
+    "slogan": "감성, 폭발적 탄생!",
+    "sloganEn": "Emotion, unleashed!",
+    "desc1": "관점을 중심으로 입장을 표현",
+    "desc2": "교류는 댓글만이 아니다",
+    "desc3": "행동으로 향한다"
+  },
+  "woo": {
+    "title": "I",
+    "annotation": "사",
+    "subtitle": "창조적 공유",
+    "slogan": "나의 성취는 평생, 진정 불멸!",
+    "sloganEn": "Achievements for life — unbreakable!",
+    "desc1": "생활을 기록하고, 가치를 구축",
+    "desc2": "미디어로 온라인과 오프라인의 진짜 순간을 연결"
+  },
+  "advantages": {
+    "title": "Advantages",
+    "subtitle": "차별화와 우위",
+    "items": [
+      {
+        "keyword": "행동 지향",
+        "title": "콘텐츠 소비가 아닌",
+        "lines": [
+          "IMAGO의 콘텐츠는 '다 보기 위한' 것이 아니다",
+          "진정한 참여와 현실 행동을 추진하기 위해"
+        ]
+      },
+      {
+        "keyword": "친구 관계에 의존하지 않는",
+        "title": "오픈 연결",
+        "lines": [
+          "서로 팔로우 필요 없이, 공유와 모임, 토론과 활동",
+          "더 자연스러운 연결, 소셜 체인에 제한받지 않음"
+        ]
+      },
+      {
+        "keyword": "콘텐츠, 관점과 모임",
+        "title": "자연스럽게 연결",
+        "lines": [
+          "숏폼 영상, 라이브, 토론 모두 오프라인 활동으로 연결",
+          "콘텐츠는 고립되지 않고, 행동의 일부"
+        ]
+      },
+      {
+        "keyword": "실제",
+        "title": "도시 생활",
+        "lines": [
+          "IMAGO는 도시와 현실에서 출발,",
+          "진짜 사람, 진짜 장면과 진짜 일어남에 서비스"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "hatta": {
+      "title": "팔달주식회사",
+      "description": "도쿄팔달상사주식회사는 도쿄에 기반을 두고 글로벌을 향한 인터넷 제품 및 플랫폼 운영 회사로, IMAGO 플랫폼 개발 및 운영에 전념하고 있습니다. 온라인 콘텐츠와 오프라인 실제 행동을 연결하는 커뮤니티입니다. 일본을 첫 시장으로 북미 및 기타 국제 도시로 점진적으로 확장하여 다문화 도시 소셜 및 로컬 라이프 네트워크를 구축합니다."
+    },
+    "imago": {
+      "title": "IMAGO",
+      "description": "IMAGO는 오프라인 초대를 핵심으로, 숏폼 영상, 라이브 및 관점 토론을 결합하여 사용자가 관심사, 표현 및 토론을 참여 가능한 실제 활동과 진짜 연결로 전환하도록 돕습니다. 플랫폼은 개인 사용자, 활동 주최자 및 지역 상점을 대상으로 다양한 오프라인 장면의 자발적 조직과 협업을 지원하며, 온라인 상호작용에서 오프라인 행동으로의 효율적 전환을 추진합니다."
+    },
+    "tokyo": {
+      "title": "도쿄",
+      "description": "도쿄팔달상사주식회사는 '콘텐츠가 입구, 행동이 결과'라는 제품 철학으로 도시 생활, 커뮤니티 협력과 디지털 플랫폼의 융합 방식을 지속적으로 탐구하며, 장기적으로 진화 가능한 온오프라인 통합 소셜 인프라 구축에 힘쓰고 있습니다."
+    }
+  },
+  "business": {
+    "subtitle": "서비스 내용",
+    "platform": {
+      "title": "IMAGO 플랫폼 운영",
+      "description": "온오프라인 통합 소셜 플랫폼 서비스를 제공하여 사용자, 활동 주최자 및 지역 상점을 연결하고 도시 생활 새로운 생태계를 구축합니다."
+    },
+    "events": {
+      "title": "이벤트 기획 및 실행",
+      "description": "창의적 기획부터 실행까지, 기업과 개인을 위한 전문적인 오프라인 이벤트 솔루션을 제공합니다."
+    },
+    "marketing": {
+      "title": "브랜드 마케팅 홍보",
+      "description": "온라인 콘텐츠와 오프라인 장면을 결합하여 몰입형 브랜드 경험을 창출하고 사용자 참여도와 브랜드 영향력을 높입니다."
+    }
+  },
+  "cases": {
+    "subtitle": "성공 사례",
+    "case1": {
+      "title": "시티 펄스: 비주얼 라이프 영감 피드",
+      "category": "IMA"
+    },
+    "case2": {
+      "title": "리얼 링크: 차원을 넘는 액션 계약",
+      "category": "GO"
+    },
+    "case3": {
+      "title": "몰입 시계: 알고리즘이 보여주는 극한의 표현력",
+      "category": "GO"
+    },
+    "case4": {
+      "title": "동기 공명: 탈중앙화 커뮤니티 소통",
+      "category": "IMA"
+    }
+  },
+  "contact": {
+    "subtitle": "문의하기",
+    "company": "회사명",
+    "address": "주소",
+    "addressDetail": "도쿄도 시나가와구 히가시고탄다 3-10-20",
+    "phone": "전화",
+    "email": "이메일",
+    "followUs": "팔로우하기",
+    "formTitle": "메시지 보내기",
+    "name": "이름",
+    "namePlaceholder": "이름을 입력해주세요",
+    "emailLabel": "이메일",
+    "emailPlaceholder": "이메일을 입력해주세요",
+    "message": "메시지",
+    "messagePlaceholder": "메시지를 입력해주세요",
+    "submit": "제출"
+  },
+  "footer": {
+    "company": "도쿄팔달상사주식회사",
+    "companyEn": "TOKYO HATTATSU BUSINESS CORPORATION",
+    "locationLabel": "주소",
+    "location": "도쿄도 시나가와구 히가시고탄다 3-10-20",
+    "corpNumberLabel": "법인번호",
+    "corpNumber": "8010701044865",
+    "postalLabel": "우편번호",
+    "postal": "〒141-0022",
+    "phoneLabel": "전화",
+    "phone": "(70) 3349-0510",
+    "emailLabel": "이메일",
+    "email": "admin@tokyohattatsu.jp",
+    "rights": "All Rights Reserved"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "nav": {
+    "home": "Home",
+    "business": "Business",
+    "cases": "Cases",
+    "about": "About",
+    "contact": "Contact",
+    "search": "Search",
+    "login": "Login"
+  },
+  "header": {
+    "slogan": "From online connections to real-world action"
+  },
+  "hero": {
+    "title": "IMAGO",
+    "subtitle": "Make it happen!",
+    "tagline": "IMA — Make it happen!",
+    "description1": "Individuals, groups, or organizations gather at IMAGO",
+    "description2": "Let interests, viewpoints and actions naturally converge",
+    "description3": "Extend online interaction to offline real life"
+  },
+  "go": {
+    "title": "GO",
+    "annotation": "Action",
+    "subtitle": "Offline Invitation",
+    "slogan": "Action matched, done in seconds!",
+    "sloganEn": "Action matched, done in seconds!",
+    "desc1": "Users and merchants",
+    "desc2": "Launch real offline activities together",
+    "desc3": "From dining, drinks, study, travel and city exploration"
+  },
+  "ima": {
+    "title": "MA",
+    "annotation": "Space",
+    "subtitle": "Viewpoint Community",
+    "slogan": "Emotion, unleashed!",
+    "sloganEn": "Emotion, unleashed!",
+    "desc1": "Express stance around viewpoints",
+    "desc2": "Exchange goes beyond comments",
+    "desc3": "Moving towards action"
+  },
+  "woo": {
+    "title": "I",
+    "annotation": "Self",
+    "subtitle": "Create & Share",
+    "slogan": "Achievements for life — unbreakable!",
+    "sloganEn": "Achievements for life — unbreakable!",
+    "desc1": "Record life, build value",
+    "desc2": "Connect online and offline real moments with media"
+  },
+  "advantages": {
+    "title": "Advantages",
+    "subtitle": "Differentiation & Advantages",
+    "items": [
+      {
+        "keyword": "Action-oriented",
+        "title": "Not content consumption",
+        "lines": [
+          "IMAGO content is not for 'being browsed'",
+          "But for driving real participation and action"
+        ]
+      },
+      {
+        "keyword": "Not relying on friendships",
+        "title": "Open Connection",
+        "lines": [
+          "No mutual follow needed, sharing, discussion and activities",
+          "More natural connections, not limited by social chains"
+        ]
+      },
+      {
+        "keyword": "Content, viewpoints and fun",
+        "title": "Naturally Connected",
+        "lines": [
+          "Short videos, live, discussions all lead to offline activities",
+          "Content is not isolated, but part of action"
+        ]
+      },
+      {
+        "keyword": "Real",
+        "title": "City Life",
+        "lines": [
+          "IMAGO starts from cities and reality,",
+          "Serving real people, real scenes and real happenings"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "hatta": {
+      "title": "Hatta Corporation",
+      "description": "Tokyo Hatta Business Co., Ltd. is located at Ichiban Uenoie, promoting service products of the corporation. With persistence, providing better customer service, pioneering creation and business, providing a place for modern people to create challenges."
+    },
+    "imago": {
+      "title": "IMAGO",
+      "description": "IMAGO focuses on offline gathering as its core, adapting to the Internet era, reshaping community-level surrounding life. Service targets range from individuals to enterprises and entrepreneurs, promoting deep interaction and exchange."
+    },
+    "tokyo": {
+      "title": "Tokyo",
+      "description": "Tokyo Hatta Business Co., Ltd. follows the product philosophy of 'Content as Entry, Action as Result', continuously exploring the integration of urban life, community collaboration, and digital platforms, committed to building sustainable online-offline integrated social infrastructure."
+    }
+  },
+  "business": {
+    "subtitle": "Our Services",
+    "platform": {
+      "title": "IMAGO Platform",
+      "description": "Providing integrated online-offline social platform services, connecting users, event organizers, and local businesses to build a new urban lifestyle ecosystem."
+    },
+    "events": {
+      "title": "Event Planning",
+      "description": "From creative planning to execution, we provide professional offline event solutions for businesses and individuals."
+    },
+    "marketing": {
+      "title": "Brand Marketing",
+      "description": "Combining online content with offline experiences to create immersive brand experiences that enhance user engagement and brand influence."
+    }
+  },
+  "cases": {
+    "subtitle": "Success Stories",
+    "case1": {
+      "title": "City Pulse: Visual Lifestyle Inspiration Feed",
+      "category": "IMA"
+    },
+    "case2": {
+      "title": "Real Link: Breaking the Wall with Action Contracts",
+      "category": "GO"
+    },
+    "case3": {
+      "title": "Immersive View: Algorithm-Driven Content at Its Best",
+      "category": "GO"
+    },
+    "case4": {
+      "title": "Synced Vibes: Decentralized Community Communication",
+      "category": "IMA"
+    }
+  },
+  "contact": {
+    "subtitle": "Get in Touch",
+    "company": "Company",
+    "address": "Address",
+    "addressDetail": "3-10-20 Higashigotanda, Shinagawa-ku, Tokyo",
+    "phone": "Phone",
+    "email": "Email",
+    "followUs": "Follow Us",
+    "formTitle": "Send Message",
+    "name": "Name",
+    "namePlaceholder": "Enter your name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Enter your email",
+    "message": "Message",
+    "messagePlaceholder": "Enter your message",
+    "submit": "Submit"
+  },
+  "footer": {
+    "company": "東京八達商事株式会社",
+    "companyEn": "TOKYO HATTATSU BUSINESS CORPORATION",
+    "locationLabel": "Address",
+    "location": "3-10-20 Higashigotanda, Shinagawa-ku, Tokyo",
+    "corpNumberLabel": "Corporate Number",
+    "corpNumber": "8010701044865",
+    "postalLabel": "Postal Code",
+    "postal": "〒141-0022",
+    "phoneLabel": "Phone",
+    "phone": "(70) 3349-0510",
+    "emailLabel": "Email",
+    "email": "admin@tokyohattatsu.jp",
+    "rights": "All Rights Reserved"
+  }
+}
