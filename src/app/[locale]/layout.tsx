@@ -10,6 +10,8 @@ import MobilePageSwipe from '@/components/MobilePageSwipe';
 import ScrollAnimationsWrapper from '@/components/ScrollAnimationsWrapper';
 import SearchHighlight from '@/components/SearchHighlight';
 
+export const dynamic = 'force-static';
+
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
 }

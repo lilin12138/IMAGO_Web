@@ -16,7 +16,7 @@ export default function Header() {
 
   const switchLocale = (newLocale: string) => {
     const pathWithoutLocale = pathname.replace(/^\/(ja|zh|en|ko)(\/|$)/, '$2') || '/';
-    router.push(`/${newLocale}${pathWithoutLocale}`);
+    window.location.href = `/${newLocale}${pathWithoutLocale}`;
   };
 
   const localeLabels: Record<string, string> = {
