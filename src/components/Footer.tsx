@@ -33,9 +33,9 @@ export function MobileFooterContent() {
         <Image
           src="/images/footer-line.png"
           alt="LINE"
-          width={150}
-          height={75}
-          className="h-10 w-auto"
+          width={120}
+          height={120}
+          className="h-24 w-24"
           unoptimized
         />
       </div>
@@ -91,9 +91,9 @@ export default function Footer() {
             <Image
               src="/images/footer-line.png"
               alt="LINE"
-              width={200}
-              height={100}
-              className="h-12 w-auto"
+              width={120}
+              height={120}
+              className="h-24 w-24"
               unoptimized
             />
           </div>
