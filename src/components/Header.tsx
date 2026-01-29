@@ -15,8 +15,8 @@ export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   const switchLocale = (newLocale: string) => {
-    const newPath = pathname.replace(`/${locale}`, `/${newLocale}`);
-    router.push(newPath);
+    const pathWithoutLocale = pathname.replace(/^\/(ja|zh|en|ko)(\/|$)/, '$2') || '/';
+    router.push(`/${newLocale}${pathWithoutLocale}`);
   };
 
   const localeLabels: Record<string, string> = {

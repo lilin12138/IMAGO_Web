@@ -50,8 +50,8 @@ export default function MobileNav() {
   ];
 
   const switchLocale = (newLocale: string) => {
-    const newPath = pathname.replace(`/${locale}`, `/${newLocale}`);
-    router.push(newPath);
+    const pathWithoutLocale = pathname.replace(/^\/(ja|zh|en|ko)(\/|$)/, '$2') || '/';
+    router.push(`/${newLocale}${pathWithoutLocale}`);
     setLangOpen(false);
   };
 
